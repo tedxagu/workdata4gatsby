@@ -14,7 +14,7 @@ You will need node and [Gatsby](https://www.gatsbyjs.org/tutorial/part-zero/) in
 Start the project by 
 
 ```
-gatsby new gatsbytest https://github.com/tedxagu/gatsby-starter-elemental
+gatsby new gatsbytest4work https://github.com/tedxagu/workdata4gatsby
 cd project-name
 gatsby develop
 ```
