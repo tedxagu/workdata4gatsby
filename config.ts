@@ -27,12 +27,12 @@ const siteMetadata = {
             url: "/about",
         },
         {
-            name: "BLOG",
+            name: "SPEAKERS",
             url: "/blog",
         },
         {
-            name: "PORTFOLIO",
-            url: "/portfolio",
+            name: "TIME SCHEDULE",
+            url: "/portfolio/TEDxAoyamaGakuinU Time schedule",
         },
         {
             name: "CONTACT",
