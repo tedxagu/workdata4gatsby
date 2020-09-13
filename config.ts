@@ -8,10 +8,10 @@ const siteMetadata = {
     ogImage: `/images/rebeat.jpg`,
     twoColumnWall: true,
     cookiePolicy: true,
-    introTag: `PHOTOGRAPHER | VIDEOGRAPHER`,
-    description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet accumsan arcu. Proin ac consequat arcu.`,
+    introTag: `Date | 2020-10-18 (sun)         Site | オンライン開催`,
+    description: `Coming soon...`,
     about:
-        "Cras accumsan a lectus at tincidunt. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Phasellus elementum dapibus dictum. Mauris auctor quam nec est tincidunt hendrerit. Donec pulvinar lobortis mauris. Cras vulputate ullamcorper ligula a rhoncus. Nunc venenatis elementum ligula in semper. Mauris malesuada purus nunc, et ultricies leo aliquam ac. Ut sit amet nunc id magna accumsan hendrerit in eget metus.",
+        "物・文化・思想...時代の流れや社会情勢などの様々な理由により、価値が薄れている、忘れられているものがある。 今回のテーマは、Rebeat !! 本来の価値の再発見＋既存・新価値の未来への共有。そして、Rebeatに関わる全員が自身の能力・個性を再発見し、「その人らしいアクション」のきっかけ作りを。 ",
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
