@@ -2,7 +2,7 @@ const siteMetadata = {
     title: `TEDx AoyamaGakuinU`,
     siteUrl: `https://www.tedxagu.com`,
     capitalizeTitleOnHome: false,
-    logo: `/images/logo.png`,
+    logo: `/images/rebeat2.jpg.PNG`,
     icon: `/images/icon.png`,
     titleImage: `/images/rebeat.jpg`,
     ogImage: `/images/rebeat.jpg`,
