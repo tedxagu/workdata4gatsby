@@ -23,8 +23,8 @@ const siteMetadata = {
             url: "/",
         },
         {
-            name: "ABOUT",
-            url: "/about",
+            name: "Theme",
+            url: "/theme",
         },
         {
             name: "SPEAKERS",
@@ -53,17 +53,17 @@ const siteMetadata = {
         {
             name: "Facebook",
             icon: "/images/Facebook.svg",
-            url: "#",
+            url: "https://www.facebook.com/tedxaogaku17/",
         },
         {
             name: "Twitter",
             icon: "/images/Twitter.svg",
-            url: "#",
+            url: "https://twitter.com/tedxagu?s=21",
         },
         {
             name: "Instagram",
             icon: "/images/Instagram.svg",
-            url: "#",
+            url: "https://instagram.com/tedxaoyamagakuinu?igshid=17n9yepjk79dy",
         },
         {
             name: "Youtube",
