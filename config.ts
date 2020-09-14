@@ -23,7 +23,7 @@ const siteMetadata = {
             url: "/",
         },
         {
-            name: "Theme",
+            name: "THEME",
             url: "/theme",
         },
         {
@@ -64,11 +64,6 @@ const siteMetadata = {
             name: "Instagram",
             icon: "/images/Instagram.svg",
             url: "https://instagram.com/tedxaoyamagakuinu?igshid=17n9yepjk79dy",
-        },
-        {
-            name: "Youtube",
-            icon: "/images/Youtube.svg",
-            url: "#",
         },
     ],
     contact: {
