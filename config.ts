@@ -23,8 +23,8 @@ const siteMetadata = {
             url: "/",
         },
         {
-            name: "THEME",
-            url: "/theme",
+            name: "ABOUT",
+            url: "/about",
         },
         {
             name: "SPEAKERS",
