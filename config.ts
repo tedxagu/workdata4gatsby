@@ -3,7 +3,7 @@ const siteMetadata = {
     siteUrl: `https://www.tedxagu.com`,
     capitalizeTitleOnHome: false,
     logo: `/images/rebeat2.jpg.PNG`,
-    icon: `/images/icon.png`,
+    icon: `/images/TEDxlogo.jpg`,
     titleImage: `/images/rebeat.jpg`,
     ogImage: `/images/rebeat.jpg`,
     twoColumnWall: true,
