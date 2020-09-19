@@ -11,7 +11,7 @@ const siteMetadata = {
     introTag: `Date | 2020-10-18 (sun)         Site | オンライン開催`,
     description: `Coming soon...`,
     about:
-        "物・文化・思想...時代の流れや社会情勢などの様々な理由により、価値が薄れている、忘れられているものがある。 今回のテーマは、Rebeat !! 本来の価値の再発見＋既存・新価値の未来への共有。そして、Rebeatに関わる全員が自身の能力・個性を再発見し、「その人らしいアクション」のきっかけ作りを。 ",
+        "2020年のTEDxAoyamaGakuinU のテーマは『Rebeat』 物・文化・思想...時代の流れや社会情勢などの様々な理由により、価値が薄れている、忘れられているものがある。 今回のテーマは、Rebeat !! 本来の価値の再発見＋既存・新価値の未来への共有。そして、Rebeatに関わる全員が自身の能力・個性を再発見し、「その人らしいアクション」のきっかけ作りを。 ",
     author: `@_akzhy`,
     blogItemsPerPage: 10,
     portfolioItemsPerPage: 10,
@@ -35,9 +35,14 @@ const siteMetadata = {
             url: "/portfolio/TEDxAoyamaGakuinU Time schedule",
         },
         {
+           name: "TICKET",
+           url: "/portfolio/Ticket",
+        },
+　　{
             name: "CONTACT",
             url: "/contact",
         },
+
     ],
     footerLinks: [
         {
