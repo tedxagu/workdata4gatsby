@@ -223,7 +223,7 @@ export const query = graphql`
         }
         portfolio: allMdx(
             filter: { fields: { sourceName: { eq: "portfolio" } } }
-            limit: 6
+            limit: 9
         ) {
             edges {
                 node {
@@ -247,7 +247,7 @@ export const query = graphql`
         }
         blog: allMdx(
             filter: { fields: { sourceName: { eq: "blog" } } }
-            limit: 6
+            limit: 9
         ) {
             edges {
                 node {
